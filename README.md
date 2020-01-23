@@ -1,2 +1,2 @@
 # IntelligentTextbooks
-IntelligentTextbooks legacy project
+This project has moved to: https://github.com/intextbooks/ITCore
